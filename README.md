@@ -1,5 +1,5 @@
 
-# PACIFICO.CLUB RADIO
+# Balena RPI Radio
 <img src=".img/pacifico.club.jpg" width="100" height="100">
 
 Este proyecto levanta una radio en un Raspberri Pi usando balena.io para orquestrar 5 servicios en un docker-compose.
